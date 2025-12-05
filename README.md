@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/tu-usuario/tu-repositorio)
+- Solution URL: [GitHub Repository](https://github.com/jesussantos210/product-preview-card)
 - Live Site URL: [Live Site](https://tu-usuario.github.io/tu-repositorio)
 
 ## My process
@@ -73,6 +73,6 @@ And how I managed the desktop layout:
 For future projects, I want to focus on strict CSS syntax organization and explore CSS Grid for more complex two-dimensional layouts.
 
 ## Author
-Website - [Jesus Santos]()
+Github - [Jesus Santos](https://github.com/jesussantos210)
 
-Frontend Mentor - [@jesussantos210]()
+Frontend Mentor - [@jesussantos210](https://www.frontendmentor.io/profile/jesussantos210)
