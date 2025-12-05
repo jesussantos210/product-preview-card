@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/jesussantos210/product-preview-card)
-- Live Site URL: [Live Site](https://tu-usuario.github.io/tu-repositorio)
+- Live Site URL: [Live Site](https://jesussantos210.github.io/product-preview-card/)
 
 ## My process
 
